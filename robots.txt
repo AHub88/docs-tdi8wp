@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-5zr6jr.aksesbidwin88rtpcihuy.com/sitemap.xml
